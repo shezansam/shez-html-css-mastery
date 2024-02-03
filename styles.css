@@ -45,13 +45,21 @@ h4 {
 figcaption {
   font-family: Arial, sans-serif;
   font-size: 1.2rem;
+  text-align: right;
 }
 
 span {
   font-style: italic;
 }
 
+blockquote {
+  border-left: grey solid 4px;
+  margin-left: 30px;
+}
 
+.quote {
+  padding-left: 20px;
+}
 
 
 ol {
