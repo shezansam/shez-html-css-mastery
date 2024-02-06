@@ -5,7 +5,7 @@ html {
 
 p, ul, ol, dl {
   font-size: 1.6rem;
-  line-height: 2.0rem; /* do i need this */
+  line-height: 2.0rem;
   margin-bottom: 16px;
 }
 
@@ -13,6 +13,7 @@ article {
   max-width: 620px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 12px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -21,21 +22,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 3rem;
-  line-height: 3.1rem; /* do i need this */
+  font-size: 3.5rem;
+  line-height: 3.5rem;
 }
 
 h2 {
-  font-size: 2.3rem;
-  line-height: 2.4rem; /* do i need this */
+  font-size: 3rem;
+  line-height: 3.5rem;
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 h4 {
-  font-size: 1.7rem;
+  font-size: 2rem;
 }
 
 .byline {
@@ -77,6 +78,7 @@ li {
   max-width: 620px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 12px;
   background-color: #ccc;
   padding: 12px;
 }
